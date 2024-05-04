@@ -17,3 +17,6 @@ node_modules/
 # Environment variables
 .env
 config/default.json
+
+# package-lock
+package-lock.json
